@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\obj\Debug\net8.0\Sistemaestoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\obj\Debug\net8.0\Sistemaestoque.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\obj\Debug\net8.0\Sistemaestoque.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\obj\Debug\net8.0\Sistemaestoque.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\bin\Debug\net8.0\Sistemaestoque.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\bin\Debug\net8.0\Sistemaestoque.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\bin\Debug\net8.0\Sistemaestoque.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\bin\Debug\net8.0\Sistemaestoque.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\bin\Debug\net8.0\Sistemaestoque.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\obj\Debug\net8.0\Sistemaestoque.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\obj\Debug\net8.0\refint\Sistemaestoque.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\obj\Debug\net8.0\Sistemaestoque.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\obj\Debug\net8.0\Sistemaestoque.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\Sistemaestoque\Sistemaestoque\obj\Debug\net8.0\ref\Sistemaestoque.dll
